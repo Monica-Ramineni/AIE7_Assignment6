@@ -92,7 +92,6 @@ cython_debug/
 *.xls
 *.xlsx
 *.pdf
-data/
 
 # Environment files
 .env
